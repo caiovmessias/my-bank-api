@@ -1,0 +1,58 @@
+2020-08-05T16:55:20.185Z [my-bank-api] info: API Started!
+2020-08-05T16:56:49.585Z [my-bank-api] info: API Started and File Created!
+2020-08-05T16:57:26.751Z [my-bank-api] error: POST /account - ENOENT: no such file or directory, open 'd:\Estudos\Bootcamp\Modulo_2\my-bank-api\accounts.json'
+2020-08-05T17:02:43.980Z [my-bank-api] info: API Started and File Created!
+2020-08-05T17:02:48.597Z [my-bank-api] info: GET /account
+2020-08-05T17:03:00.308Z [my-bank-api] info: POST /account - {"id":1,"name":"José Silva","balance":5450.45}
+2020-08-05T17:03:03.151Z [my-bank-api] info: GET /account
+2020-08-05T17:03:09.304Z [my-bank-api] info: GET /account
+2020-08-05T17:03:11.716Z [my-bank-api] info: GET /account
+2020-08-05T17:04:06.642Z [my-bank-api] info: API Started!
+2020-08-06T15:38:31.559Z [my-bank-api] info: API Started!
+2020-08-06T15:38:39.131Z [my-bank-api] info: GET /account
+2020-08-06T15:38:55.041Z [my-bank-api] info: POST /account - {"id":2,"name":"Caio Vinicius","balance":850.45}
+2020-08-06T15:39:14.658Z [my-bank-api] info: POST /account - {"id":3,"name":"Adrielle Marcari","balance":6985.44}
+2020-08-06T15:39:16.204Z [my-bank-api] info: GET /account
+2020-08-06T15:40:02.223Z [my-bank-api] info: API Started!
+2020-08-06T15:41:13.148Z [my-bank-api] info: API Started!
+2020-08-06T15:41:21.145Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios
+2020-08-06T15:42:03.178Z [my-bank-api] info: API Started!
+2020-08-06T15:42:06.099Z [my-bank-api] info: POST /account - {"id":4,"name":"Adrielle Marcari","balance":0}
+2020-08-06T15:42:10.105Z [my-bank-api] info: GET /account
+2020-08-06T15:42:34.185Z [my-bank-api] info: DELETE /account -  4
+2020-08-06T15:42:36.259Z [my-bank-api] info: GET /account
+2020-08-06T15:43:31.324Z [my-bank-api] info: API Started!
+2020-08-06T15:43:50.149Z [my-bank-api] info: POST /account - {"id":5,"name":"Adrielle Marcari","balance":0}
+2020-08-06T15:43:52.616Z [my-bank-api] info: GET /account
+2020-08-06T15:45:53.549Z [my-bank-api] info: API Started!
+2020-08-06T15:46:01.403Z [my-bank-api] error: PUT /account - Registro não encontrado
+2020-08-06T15:46:05.588Z [my-bank-api] error: PUT /account - Registro não encontrado
+2020-08-06T15:46:50.333Z [my-bank-api] info: API Started!
+2020-08-06T15:47:01.952Z [my-bank-api] error: PUT /account - Name e Balance são obrigatórios
+2020-08-06T15:47:34.643Z [my-bank-api] info: API Started!
+2020-08-06T15:47:48.899Z [my-bank-api] error: PUT /account - Registro não encontrado
+2020-08-06T15:48:01.704Z [my-bank-api] info: GET /account
+2020-08-06T15:48:08.202Z [my-bank-api] info: PUT /account -  {"id":5,"name":"João Silva","balance":840.45,"aaa":"aaaaa"}
+2020-08-06T15:48:12.592Z [my-bank-api] info: GET /account
+2020-08-06T15:49:34.724Z [my-bank-api] info: API Started!
+2020-08-06T15:49:38.105Z [my-bank-api] error: PUT /account - Assignment to constant variable.
+2020-08-06T15:49:46.233Z [my-bank-api] info: API Started!
+2020-08-06T15:51:54.215Z [my-bank-api] info: API Started!
+2020-08-06T15:52:40.015Z [my-bank-api] info: API Started!
+2020-08-06T15:53:04.890Z [my-bank-api] error: PATCH /account - ID e Balance são obrigatórios
+2020-08-06T15:53:08.902Z [my-bank-api] error: PATCH /account - Registro não encontrado
+2020-08-06T15:53:13.353Z [my-bank-api] info: PATCH /account -  {"id":5,"balance":1470.45}
+2020-08-06T15:53:25.739Z [my-bank-api] info: API Started!
+2020-08-06T15:54:31.441Z [my-bank-api] info: API Started!
+2020-08-06T16:00:04.904Z [my-bank-api] info: API Started!
+2020-08-06T16:00:53.374Z [my-bank-api] info: GET /account
+2020-08-06T16:05:01.191Z [my-bank-api] info: GET /account
+2020-08-06T16:07:09.183Z [my-bank-api] info: API Started!
+2020-08-06T16:07:14.663Z [my-bank-api] info: GET /account
+2020-08-06T16:07:52.734Z [my-bank-api] info: API Started!
+2020-08-06T16:08:23.155Z [my-bank-api] info: API Started!
+2020-08-06T16:08:35.114Z [my-bank-api] info: API Started!
+2020-08-06T16:08:37.921Z [my-bank-api] info: GET /account
+2020-08-06T16:08:56.841Z [my-bank-api] info: GET /account
+2020-08-06T16:25:52.749Z [my-bank-api] info: API Started!
+2020-08-06T16:28:48.038Z [my-bank-api] info: API Started!

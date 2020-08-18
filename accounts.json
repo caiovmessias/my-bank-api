@@ -1,0 +1,25 @@
+{
+  "nextId": 6,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "José Silva",
+      "balance": 5450.45
+    },
+    {
+      "id": 2,
+      "name": "Caio Vinicius",
+      "balance": 850.45
+    },
+    {
+      "id": 3,
+      "name": "Adrielle Marcari",
+      "balance": 6985.44
+    },
+    {
+      "id": 5,
+      "name": "João Silva",
+      "balance": 1470.45
+    }
+  ]
+}
